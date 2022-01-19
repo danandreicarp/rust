@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "threads",
+    "communication",
+    "shared-state",
+]
