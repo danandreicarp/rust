@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "encapsulation",
+    "gui",
+    "blog",
+]
