@@ -1,6 +1,7 @@
 use gui::Draw;
 use gui::{Button, Screen};
 
+#[allow(unused)]
 struct SelectBox {
     width: u32,
     height: u32,
