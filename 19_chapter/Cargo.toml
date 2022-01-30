@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+    "unsafe-example",
+    "traits-example",
+    "advanced-types",
+    "functions-example",
+    "hello_macro",
+    "hello_macro/hello_macro_derive",
+    "macros-example",
+]
